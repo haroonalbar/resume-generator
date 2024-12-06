@@ -25,9 +25,9 @@ chmod +x run.sh
 
 5. Update Configuration
 - Edit run.sh:
-    Set RESUME_DIR
-    Set PORTFOLIO_DIR
-    Set DOCUMENTS_DIR
+    >Set RESUME_DIR
+    >Set PORTFOLIO_DIR
+    >Set DOCUMENTS_DIR
 
 ## Usage
 

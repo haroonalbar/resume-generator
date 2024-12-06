@@ -18,7 +18,7 @@ npm i -g md-to-pdf
 
 4. Clone and configure
 ```bash
-git clone github.com/haroonalbar/resume-generator
+git clone https://github.com/haroonalbar/resume-generator.git
 cd resume-generator
 chmod +x run.sh
 ```
